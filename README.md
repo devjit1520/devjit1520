@@ -100,13 +100,13 @@ A professional services website focused on modern frontend development, responsi
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/projects/taskbloom-cover.svg" width="100%" alt="TaskBloom project cover" />
+<a href="https://taskbloom-todo-app.vercel.app/"><img src="./assets/projects/taskbloom-cover.svg" width="100%" alt="TaskBloom project cover" /></a>
 
 **Modern Task Management Application**
 
 Task CRUD, search, filters, priorities, deadlines, drag-and-drop sorting, dark mode and LocalStorage persistence.
 
-[**Source Code →**](https://github.com/devjit1520/Todo_Manager)
+[**Live Demo ↗**](https://taskbloom-todo-app.vercel.app/) · [**Source Code →**](https://github.com/devjit1520/Todo_Manager)
 
 </td>
 </tr>
