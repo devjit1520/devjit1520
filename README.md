@@ -89,13 +89,13 @@ A modern portfolio showcasing projects, technical skills and frontend developmen
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://devcraft-peach.vercel.app/"><img src="./assets/projects/devcraft-cover.svg" width="100%" alt="DevCraft project cover" /></a>
+<a href="https://devcraft-services.vercel.app/"><img src="./assets/projects/devcraft-cover.svg" width="100%" alt="DevCraft project cover" /></a>
 
 **Web Design & Frontend Services Website**
 
 A professional services website focused on modern frontend development, responsive design, SEO and conversion-focused UI.
 
-[**Live Demo ↗**](https://devcraft-peach.vercel.app/) · [**Source Code →**](https://github.com/devjit1520/devcraft)
+[**Live Demo ↗**](https://devcraft-services.vercel.app/) · [**Source Code →**](https://github.com/devjit1520/devcraft)
 
 </td>
 <td width="50%" valign="top">
