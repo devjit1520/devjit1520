@@ -1,10 +1,8 @@
 <div align="center">
 
-# DEVJIT MONDAL
+<img src="./assets/github-banner.svg" width="100%" alt="Devjit Mondal — Frontend Developer" />
 
-### Frontend Developer · React Developer
-
-**Building responsive, accessible and production-ready web experiences.**
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://portfolio-devjit.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/devjit-mondal-b68947233/)
@@ -43,26 +41,22 @@ I enjoy turning ideas into polished interfaces, working with APIs, creating reus
 <tr>
 <td width="50%" valign="top">
 
-### 💰 FinTrack
+<a href="https://fintrack-devjit.vercel.app/"><img src="./assets/projects/fintrack-cover.svg" width="100%" alt="FinTrack project cover" /></a>
 
 **Personal Finance Management Dashboard**
 
 Track transactions, budgets, financial goals and analytics through a responsive React dashboard.
-
-`React` `JavaScript` `Tailwind CSS` `Recharts` `React Router`
 
 [**Live Demo ↗**](https://fintrack-devjit.vercel.app/) · [**Source Code →**](https://github.com/devjit1520/fintrack)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 QuizMaster
+<a href="https://quiz-application-lyart-two.vercel.app/"><img src="./assets/projects/quizmaster-cover.svg" width="100%" alt="QuizMaster project cover" /></a>
 
 **Gamified Frontend Quiz Platform**
 
 Interactive quizzes with XP, levels, achievements, streaks, analytics and persistent progress tracking.
-
-`React` `Tailwind CSS` `Framer Motion` `LocalStorage`
 
 [**Live Demo ↗**](https://quiz-application-lyart-two.vercel.app/) · [**Source Code →**](https://github.com/devjit1520/quiz_application)
 
@@ -71,26 +65,22 @@ Interactive quizzes with XP, levels, achievements, streaks, analytics and persis
 <tr>
 <td width="50%" valign="top">
 
-### 🌦️ WeatherNow
+<a href="https://weathernow-weather-dashboard.vercel.app/"><img src="./assets/projects/weathernow-cover.svg" width="100%" alt="WeatherNow project cover" /></a>
 
 **Real-Time Weather Dashboard**
 
 Weather search, autocomplete, geolocation, forecasts, saved cities and temperature preferences using real-time APIs.
-
-`JavaScript ES6+` `REST API` `Geolocation` `LocalStorage`
 
 [**Live Demo ↗**](https://weathernow-weather-dashboard.vercel.app/) · [**Source Code →**](https://github.com/devjit1520/weathernow-weather-dashboard)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧑‍💻 Developer Portfolio
+<a href="https://portfolio-devjit.vercel.app/"><img src="./assets/projects/portfolio-cover.svg" width="100%" alt="Devjit portfolio project cover" /></a>
 
 **Personal Frontend Developer Portfolio**
 
 A modern portfolio showcasing projects, technical skills and frontend development work through a polished responsive interface.
-
-`React` `Tailwind CSS` `Framer Motion` `EmailJS`
 
 [**Live Demo ↗**](https://portfolio-devjit.vercel.app/) · [**Source Code →**](https://github.com/devjit1520/Devjit-portfolio)
 
@@ -99,26 +89,22 @@ A modern portfolio showcasing projects, technical skills and frontend developmen
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ DevCraft
+<a href="https://devcraft-peach.vercel.app/"><img src="./assets/projects/devcraft-cover.svg" width="100%" alt="DevCraft project cover" /></a>
 
 **Web Design & Frontend Services Website**
 
 A professional services website focused on modern frontend development, responsive design, SEO and conversion-focused UI.
-
-`React` `JavaScript` `Framer Motion` `SEO` `Vite`
 
 [**Live Demo ↗**](https://devcraft-peach.vercel.app/) · [**Source Code →**](https://github.com/devjit1520/devcraft)
 
 </td>
 <td width="50%" valign="top">
 
-### ✅ TaskBloom
+<img src="./assets/projects/taskbloom-cover.svg" width="100%" alt="TaskBloom project cover" />
 
 **Modern Task Management Application**
 
 Task CRUD, search, filters, priorities, deadlines, drag-and-drop sorting, dark mode and LocalStorage persistence.
-
-`JavaScript` `Tailwind CSS` `LocalStorage` `SortableJS`
 
 [**Source Code →**](https://github.com/devjit1520/Todo_Manager)
 
