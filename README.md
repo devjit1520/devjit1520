@@ -1,120 +1,203 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Devjit Mondal</h1>
-<h3 align="center">Front-end web developer</h3>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=devjit1520">
-    <img src="https://komarev.com/ghpvc/?username=devjit1520&label=Profile%20views&color=00FFFF&style=flat-square" alt="devjit1520's profile views" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- I'm a passionate Frontend Developer who loves building modern, responsive, and user-friendly web applications. I enjoy turning ideas into interactive digital experiences using clean code and creative design.
-- 💻 Tech Stack:
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Vite
-- Tailwind CSS, Bootstrap
-- Git & GitHub
-- Responsive Web Design
-- 🚀 I enjoy working on:
-- Modern portfolio websites
-- Interactive web applications
-- Responsive UI/UX design
-- React-based projects
-- Open-source learning and collaboration
-- 🌱 Currently improving my skills in advanced React concepts, state management, performance optimization, and full-stack web development.
-- My goal is to create impactful digital products while continuously learning new technologies and best practices in web development.
-- Feel free to explore my repositories and connect with me. I'm always excited to learn, collaborate, and build amazing things on the web! ✨
-
-
-## 🧠 My Focus Areas
-- ## 🎯 Focus Areas
-* React.js & Modern JavaScript (ES6+)
-* Responsive Web Design
-* UI/UX Development
-* Component-Based Architecture
-* Performance Optimization
-* Git & GitHub Workflow
-* Frontend Best Practices
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/devjit1520">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devjit1520&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="devjit1520's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=devjit1520&theme=dracula&hide_border=true&cache_seconds=86400" alt="devjit1520's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=devjit1520&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Devjit Mondal's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=devjit1520&theme=dracula&radius=10" alt="devjit1520's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/devjit1520">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devjit1520&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/devjit-mondal-b68947233/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/918515016686">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:devjit1682002@mail..com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
-
-## 💬 Quote
-> > ✨ *"Building beautiful interfaces, one component at a time."*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+
+# DEVJIT MONDAL
+
+### Frontend Developer · React Developer
+
+**Building responsive, accessible and production-ready web experiences.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://portfolio-devjit.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/devjit-mondal-b68947233/)
+[![GitHub](https://img.shields.io/badge/GitHub-devjit1520-111111?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/devjit1520)
+
 </div>
 
+---
+
+```text
+> devjit --profile
+
+ROLE        Frontend Developer
+FOCUS       React.js / JavaScript / Modern UI
+LOCATION    India
+STATUS      Open to Frontend & React opportunities
+```
+
+## About Me
+
+I'm a **Frontend Developer** focused on building modern, responsive and user-friendly web applications with **React.js, JavaScript and Tailwind CSS**.
+
+I enjoy turning ideas into polished interfaces, working with APIs, creating reusable component systems and improving application structure, performance and user experience.
+
+- Building real-world frontend projects with React and modern JavaScript
+- Working with responsive layouts, component architecture and application state
+- Integrating REST APIs and browser storage
+- Focused on clean UI, maintainable code and practical user experiences
+- Continuously improving advanced React and frontend architecture skills
+
+---
+
+## Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 FinTrack
+
+**Personal Finance Management Dashboard**
+
+Track transactions, budgets, financial goals and analytics through a responsive React dashboard.
+
+`React` `JavaScript` `Tailwind CSS` `Recharts` `React Router`
+
+[**Live Demo ↗**](https://fintrack-devjit.vercel.app/) · [**Source Code →**](https://github.com/devjit1520/fintrack)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 QuizMaster
+
+**Gamified Frontend Quiz Platform**
+
+Interactive quizzes with XP, levels, achievements, streaks, analytics and persistent progress tracking.
+
+`React` `Tailwind CSS` `Framer Motion` `LocalStorage`
+
+[**Live Demo ↗**](https://quiz-application-lyart-two.vercel.app/) · [**Source Code →**](https://github.com/devjit1520/quiz_application)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌦️ WeatherNow
+
+**Real-Time Weather Dashboard**
+
+Weather search, autocomplete, geolocation, forecasts, saved cities and temperature preferences using real-time APIs.
+
+`JavaScript ES6+` `REST API` `Geolocation` `LocalStorage`
+
+[**Live Demo ↗**](https://weathernow-weather-dashboard.vercel.app/) · [**Source Code →**](https://github.com/devjit1520/weathernow-weather-dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧑‍💻 Developer Portfolio
+
+**Personal Frontend Developer Portfolio**
+
+A modern portfolio showcasing projects, technical skills and frontend development work through a polished responsive interface.
+
+`React` `Tailwind CSS` `Framer Motion` `EmailJS`
+
+[**Live Demo ↗**](https://portfolio-devjit.vercel.app/) · [**Source Code →**](https://github.com/devjit1520/Devjit-portfolio)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ DevCraft
+
+**Web Design & Frontend Services Website**
+
+A professional services website focused on modern frontend development, responsive design, SEO and conversion-focused UI.
+
+`React` `JavaScript` `Framer Motion` `SEO` `Vite`
+
+[**Live Demo ↗**](https://devcraft-peach.vercel.app/) · [**Source Code →**](https://github.com/devjit1520/devcraft)
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ TaskBloom
+
+**Modern Task Management Application**
+
+Task CRUD, search, filters, priorities, deadlines, drag-and-drop sorting, dark mode and LocalStorage persistence.
+
+`JavaScript` `Tailwind CSS` `LocalStorage` `SortableJS`
+
+[**Source Code →**](https://github.com/devjit1520/Todo_Manager)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+</p>
+
+### Libraries & Development
+
+<p>
+  <img src="https://img.shields.io/badge/React_Router-111111?style=for-the-badge&logo=reactrouter&logoColor=CA4245" alt="React Router" />
+  <img src="https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=ffffff" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" />
+</p>
+
+### What I Work With
+
+`Responsive Web Design` · `Component-Based Architecture` · `REST APIs` · `LocalStorage` · `State Management` · `Data Visualization` · `Form Handling` · `Frontend Performance`
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devjit1520&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Devjit Mondal GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjit1520&layout=compact&hide_border=true&theme=github_dark" alt="Devjit Mondal top languages" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=devjit1520&theme=github-compact&hide_border=true&area=true" alt="Devjit Mondal contribution activity graph" />
+
+</div>
+
+---
+
+## Currently
+
+```text
+BUILDING     Production-quality frontend applications
+IMPROVING    Advanced React, JavaScript and frontend architecture
+LEARNING     Better performance, accessibility and scalable UI patterns
+LOOKING FOR  Frontend Developer / React Developer opportunities
+```
+
+---
+
+## Let's Connect
+
+I'm open to **Frontend Developer**, **React Developer**, internship and collaboration opportunities where I can contribute to real products and continue growing as a developer.
+
+<p>
+  <a href="https://portfolio-devjit.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View_Project_Work-111111?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/devjit-mondal-b68947233/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+</p>
+
+---
+
+<div align="center">
+
+### `build → learn → improve → repeat`
+
+<sub>Thanks for visiting my GitHub profile.</sub>
+
+</div>
